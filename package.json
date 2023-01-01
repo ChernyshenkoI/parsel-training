@@ -1,0 +1,23 @@
+{
+  "name": "parsel-training",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx parcel src/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChernyshenkoI/parsel-training.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChernyshenkoI/parsel-training/issues"
+  },
+  "homepage": "https://github.com/ChernyshenkoI/parsel-training#readme",
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.8.2",
+    "parcel": "^2.8.2"
+  }
+}
